@@ -1,6 +1,4 @@
 import streamlit as st
-from streamlit_confetti import confetti
-
 
 st.title("❤️")
 st.subheader("Pedido de Casamento")
