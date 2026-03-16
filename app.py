@@ -13,7 +13,7 @@ if st.button("Enviar"):
     if nome and "Sim" in resposta:
         
         st.success(f" AGORA VOCÊ TEM DONO! 💍")
-        st.success(f"TEU NOME AGORA É {nome.upper().replace('DALLI', 'YEPEZ')}, CONSIDERE-SE CASADO!")
+        st.success(f"TEU NOME AGORA É {nome.upper().replace('DALLI', 'YEPEZ')}!")
         
     else:
         st.warning("Por favor, preencha seu nome e selecione uma resposta.")
